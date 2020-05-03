@@ -1,4 +1,3 @@
-
 // https://www.hackerrank.com/challenges/grading/problem
 const grades = [84,23,58,35,100,99,98,88,98,48]
 function gradingStudents(grades) {
@@ -11,6 +10,5 @@ function gradingStudents(grades) {
     return newGrades
 
 }
-
 gradingStudents(grades)
 
